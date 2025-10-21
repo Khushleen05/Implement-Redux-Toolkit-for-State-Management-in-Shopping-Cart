@@ -15,4 +15,14 @@ A React application that uses Redux Toolkit for managing global state in a shopp
 
 🧩 Clean component-based structure
 
+## Technologies Used
+React.js
+
+Redux Toolkit
+
+React Redux
+
+JavaScript (ES6)
+
+CSS
 
